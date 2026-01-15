@@ -1,0 +1,12 @@
+:root{
+    --darkred:rgb(79,20,20); 
+}
+
+
+a{
+color:var(--darkred)
+
+}
+div{
+    color:var(--darkred)
+}

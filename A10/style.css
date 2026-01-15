@@ -1,0 +1,12 @@
+div{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    padding: 100px;
+    border-color: rgb(187, 187, 187);
+    border:3px solid;
+    
+}
+.first{
+margin-left: 300px;
+}

@@ -1,0 +1,13 @@
+ul,li{
+display: inline-block;
+    margin: 20px;
+}
+article, aside{
+border: 1px solid black;
+padding: 100px 50px;
+display: inline-block;
+margin: 50px;
+}
+article{
+    width: 70%;
+}

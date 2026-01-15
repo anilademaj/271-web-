@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main{
+    height: 100vh;
+    /* vh - view hwight (viewport) */
+    width: 100%;
+    background-color:blue;
+    display:flex;
+    /* align-items: center; */
+    /* align items vlen vertikalisht */
+    align-items: center;
+    align-items: flex-end;
+/* align-items: flex-start; */
+/* justify-content: center; */
+/* justify-content: vlen per horizontalisht; */
+/* justify-content: flex-start; */
+justify-content: space-between;
+/* space between vendos hapsir mes elementeve */
+justify-content: space-evenly;
+/* space evenly  hapsire te njejte mes qdo elementi nfaqe */
+justify-content: space-around;
+/* space around jep hapsire anash sa gjysa qe eshte ne mes */
+align-items: stretch;
+/* flex-direction: row; */
+flex-direction: column;
+/* flex-direction: column athere align items vlen per horizontalisht justify content vlen per vertikalisht; */
+
+
+
+}
+.box1{
+    width: 40%;
+    height: 50%;
+    background-color:rgb(3, 3, 220);
+    
+}
+.box2{
+    width: 40%;
+height: 50%;
+background-color: rgb(49, 49, 255);
+}

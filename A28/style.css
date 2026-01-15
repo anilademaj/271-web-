@@ -1,0 +1,28 @@
+div{
+    width: 200px;
+    height: 200px;
+    background-image: linear-gradient(red,green,blue);
+    background-image: radial-gradient(pink,purple,black);
+    background-image: linear-gradient(to bottom right,white,grey,black);
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/041/880/991/small/ai-generated-pic-artistic-depiction-of-sunflowers-under-a-vast-cloudy-sky-photo.jpg);
+    background-size: cover;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    border: 2px solid red;
+}
+:root{
+    --white:#fff;
+    --lightred: rgb(79,20,20);
+    --darkred:red;
+    --purple:purple;
+    --darkblue:blue;
+    --green:green;
+    --black:black;
+    --orange:orange;
+    --yellow:yellow;
+}
+p{
+    color: var(--darkred);
+    background-color: var(--green);
+}

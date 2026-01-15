@@ -1,0 +1,21 @@
+div{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+}
+/* div:hover */
+/* :hover eshte nje pseudo class sepse ndryshimi ndodh me komplete divin kur brjmr hover */
+p::first-letter{
+    background-color: brown;
+    color: aliceblue;
+}
+/* pseudo elementet bejne msryshim vetem brenda ndoni element brenda tagut */
+p::first-line{
+    background-color: blue;
+}
+p::before{
+    content:"Anili🐱‍🚀🐱‍🚀" ;
+}
+p::after{
+    content: "🎳🎱🎳🥌🥎⚾";
+}

@@ -1,0 +1,19 @@
+.main{
+    height: 300px;
+    width: 1000px;
+    background-color: blueviolet;
+
+}
+.main2{
+    height: 150px;
+    width: 150px;
+    background-color: aquamarine;
+    float: right;
+    margin-right: 50px;
+    margin-top: 25px;
+    border-radius: 15px;
+}
+.main1{
+    color: azure;
+    padding-top: 15;
+}

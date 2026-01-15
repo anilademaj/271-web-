@@ -1,0 +1,27 @@
+button{
+    background-color: maroon;
+    color: aliceblue;
+    border: 1px solid maroon;
+     border-radius:200px ;
+     width: 130px;
+     height: 50px;
+     transition: .5s ease;
+     transform: translate(20px,50px);
+     transform: rotate(30deg);
+     transform: scale(1) translate(20px,50px);
+
+}
+button:hover{
+    
+    background-color: aliceblue;
+    border-color: maroon;
+    color: maroon;
+    transition: .5s ease ;
+    transition-delay: 2s;
+    transform: scale(1.5);
+    /* ease- ja ni transition kadale dhe kryhet kadale        */
+    /* ease in qe ja nis kADALE KRYHET SHPWJT */
+    /* ease out kryhet kadale */
+    /* ease in out ja nis kadale tona vazhdon shpejt dhe kryhet kadale */
+    /* lineare qe e ka shpejtesine e njejt */
+}

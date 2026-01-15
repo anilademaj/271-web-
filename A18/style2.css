@@ -1,0 +1,42 @@
+div{
+    background-color: aqua;
+    height: 350px;
+    width: 200px;
+    border-radius: 10px;
+    border-color: black;
+    border: 1px solid;
+    
+
+}
+h1{
+    margin-left: 20px;
+}
+.emri{
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+.vend{
+     margin-left: 15px;
+    margin-bottom: 10px;
+}
+.mbie{
+     margin-left: 15px;
+    margin-bottom: 10px;
+}
+.perse{
+     margin-left: 15px;
+    margin-bottom: 10px;
+}
+.pass{
+     margin-left: 15px;
+    margin-bottom: 10px;
+}
+.submit{
+     margin-left: 15px;
+    margin-bottom: 10px;
+    
+}
+.date{
+     margin-left: 15px;
+    margin-top: 10px;
+}

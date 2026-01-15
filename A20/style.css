@@ -1,0 +1,23 @@
+.main{
+    border:5px solid;
+    border-color: black;
+    width: 500px;
+    height: 500px;
+}
+.box1{
+    border: 1px solid ;
+    border-color: black;
+    width: 255px;
+    margin-left: 100px;
+    margin-bottom: 70px;
+}
+.box2{
+    border: 1px solid ;
+    border-color: black;
+    width: 260px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+h1{
+    margin-left: 70px;
+}

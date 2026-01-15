@@ -1,0 +1,25 @@
+$ngjyraekuqe:#711919;
+
+*{
+    padding: 0;
+    margin: 0;
+}
+div{
+    padding: 20px;
+font-family: sans-serif;
+margin: 40px;
+border: 1px solid purple;
+
+ul{
+    list-style-type: upper-alpha;
+
+    li{
+        font-size: 20px;
+        letter-spacing: 0.7px;
+        line-height: 25px;
+        margin-left: 30px;
+        background-color: $ngjyraekuqe;
+    }
+}
+
+}

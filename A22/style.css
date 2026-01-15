@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "popins",sans-serif;
+}
+header, .parent{
+    display: flex;
+    padding: 30px 50px;
+    justify-content: space-between;
+}
+.main1 h3, .parent h3{
+    font-size: 24px;
+    font-weight: 600;
+}
+.main1 p, .parent p{
+    font-weight: 400;
+    font-size: 16px;
+    color: #95a3b4;
+    margin-top: 12px;
+}
+.foto{
+    width: 62px;
+    border-radius: 200px;
+}
+.main2 img{
+    margin-left: 20px;
+}
+.box1{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.netflix{
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    align-items: center;
+    box-shadow: 21px 0px 19px -1px rgba(0,0,0,0.35);
+    border-radius: 5px 15px;
+}
+.price{
+    color: rgb(153, 0, 31);
+}
+.box2{
+    background-color: rgb(75, 75, 228);
+    color: white;
+}
+.box2{
+width: 40%;
+border-radius: 15px;
+padding: 20px 15px;
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+.left h3{
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+.left span{
+    font-size: 36px;
+    font-weight: 600;
+    
+}
+.left button{
+    font-family: "poppins", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    border: 1px solid white;
+    border-radius: 7px;
+    padding: 4px 6px;
+    color: #fff;
+    margin-left: 10px;
+    background-color: transparent;
+}
+.right p{
+    color: #fff;
+    font-size: 14px;
+}
+.top, .bottom{
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+

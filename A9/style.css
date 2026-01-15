@@ -1,0 +1,24 @@
+
+*{
+    /* margin jane hapesirat jasht elementit */
+    margin: 0px;
+   
+
+}
+div{
+    background-color: brown;
+     margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    /* padding eshte hapsira mbrenda elementit */
+    padding: 50px;
+    padding-left: 150px;
+    padding-bottom: 300px;
+    /* border: 40px solid rgb(255, 255, 255) ;
+     border: 30px dashed rgb(0, 0, 0) ; */
+/* border: 5px dotted whitesmoke; */
+border: 5px dotted whitesmoke;
+/* margin: 30px 50px 100px 40px ;
+margin: top, right, bottom, left ; */
+}
